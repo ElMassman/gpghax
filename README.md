@@ -1,4 +1,4 @@
-# gpghax
+# gpghax for Japanese PlayStation Classic
 
 >Disclaimer: this can brick your console. Don't use if you don't understand every piece of how it works.
 
